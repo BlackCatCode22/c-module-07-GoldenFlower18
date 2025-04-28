@@ -1,0 +1,35 @@
+Hyena:
+Kamari
+Shenzi
+Banzai
+Ed
+Zig
+Bud
+Lou
+
+Lion:
+Simba
+Nala
+Mufasa
+Sarabi
+Scar
+Kiara
+Kovu
+
+Tiger:
+Rajah
+Shere Khan
+Tigger
+Diego
+Vitaly
+Tony
+Richard Parker
+
+Bear:
+Baloo
+Yogi
+Smokey
+Paddington
+Winnie
+Kung Fu
+Boo-Boo

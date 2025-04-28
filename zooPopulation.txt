@@ -1,0 +1,17 @@
+Zookeeper's Report - Zoo Population
+
+Hyena Habitat:
+* Hy01; Kamari; birth date 2021-04-16; tan color; female; 70 pounds; from Friguia Park, Tunisia; arrived 2025-04-06
+* Hy02; Shenzi; birth date 2017-01-15; spotted color; male; 150 pounds; from Friguia Park, Tunisia; arrived 2025-04-06
+
+Lion Habitat:
+* Li01; Simba; birth date 2019-08-05; golden color; female; 300 pounds; from Zanzibar, Tanzania; arrived 2025-04-06
+* Li02; Nala; birth date 2013-02-02; brown color; male; 450 pounds; from KopeLion, Tanzania; arrived 2025-04-06
+
+Tiger Habitat:
+* Ti01; Rajah; birth date 2023-01-15; white color; female; 230 pounds; from Dhaka, Bangladesh; arrived 2025-04-06
+* Ti02; Shere Khan; birth date 2020-01-15; black color; male; 310 pounds; from Bardia National Park, Nepal; arrived 2025-04-06
+
+Bear Habitat:
+* Be01; Baloo; birth date 2022-03-03; brown color; female; 320 pounds; from Alaska Zoo, USA; arrived 2025-04-06
+* Be02; Yogi; birth date 2015-01-15; black color; male; 480 pounds; from Woodland Park Zoo, USA; arrived 2025-04-06
